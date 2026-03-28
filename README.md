@@ -1876,10 +1876,44 @@ Make sure your submissions align with the following guidelines:
 Thanks to all the amazing contributors who have helped build and improve this list:
 
 **Pull Request Contributors:**
+- [@almogbot](https://github.com/almogbot) — Wolfpack
+- [@ankitdn](https://github.com/ankitdn) — Vulert
+- [@arielshad](https://github.com/arielshad) — Shep
+- [@b1rdmania](https://github.com/b1rdmania) — GhostClaw
 - [@Bartupso](https://github.com/Bartupso)
+- [@bmdhodl](https://github.com/bmdhodl) — AgentGuard
+- [@cafferychen777](https://github.com/cafferychen777) — ChatSpatial
+- [@connerlambden](https://github.com/connerlambden) — BGPT MCP
+- [@dancourse](https://github.com/dancourse) — OpenClaw
+- [@daxaur](https://github.com/daxaur) — OpenPaw
+- [@GitDakky](https://github.com/GitDakky) — Yoyo
+- [@hanzili](https://github.com/hanzili) — Hanzi
 - [@hashimwarren](https://github.com/hashimwarren) — Mastra AI
+- [@hivemoot-forager](https://github.com/hivemoot-forager) — Hivemoot
+- [@igorcosta](https://github.com/igorcosta) — Autohand Code CLI
+- [@In3tinct](https://github.com/In3tinct) — Androidmeda update
+- [@johnnyfish](https://github.com/johnnyfish) — OneCLI
+- [@kantorcodes](https://github.com/kantorcodes) — Registry Broker
+- [@keon](https://github.com/keon) — Lumen
+- [@kody-w](https://github.com/kody-w) — Rappterbook
+- [@L1AD](https://github.com/L1AD) — PolicyLayer
+- [@m13v](https://github.com/m13v) — Fazm
+- [@mantrahq502](https://github.com/mantrahq502) — Mantra
+- [@minhoyoo-iotrust](https://github.com/minhoyoo-iotrust) — WAIaaS
+- [@murdore](https://github.com/murdore) — NeuroLink
+- [@NikitaDmitrieff](https://github.com/NikitaDmitrieff) — auto-co
+- [@pinchwork](https://github.com/pinchwork) — Pinchwork
 - [@PubliusAu](https://github.com/PubliusAu) — Tool/benchmark additions
+- [@Quinnod345](https://github.com/Quinnod345) — context-engine-ai
+- [@remete618](https://github.com/remete618) — widemem-ai
+- [@RusDyn](https://github.com/RusDyn) — WritBase
+- [@sagiyak-rgb](https://github.com/sagiyak-rgb) — TeamHero
+- [@SKULLFIRE07](https://github.com/SKULLFIRE07) — Cortex
+- [@superlowburn](https://github.com/superlowburn) — AgentHive
+- [@The-Nexus-Guard](https://github.com/The-Nexus-Guard) — AIP Identity Protocol
 - [@tigranbs](https://github.com/tigranbs) — Sayna.ai
+- [@vishalveerareddy123](https://github.com/vishalveerareddy123) — Lynkr
+- [@yubing744](https://github.com/yubing744) — Agent-Manager-Skill
 
 **Issue Contributors:**
 - [@AClerbois](https://github.com/AClerbois) — Microsoft Agent Framework ([#10](https://github.com/jim-schwoebel/awesome_ai_agents/issues/10))
